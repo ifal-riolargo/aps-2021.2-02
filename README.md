@@ -1,2 +1,13 @@
 # aps-2021.2-02
 Atividade prática que mostra como contribuir com um projeto open-source no Github.
+
+## Atividade
+Cada aluno(a) deverá criar um arquivo com o nome: nome-sobrenome.txt (ex. leonardo-fernandes.txt)
+
+Salve este arquivo dentro da pasta correspondente da sua turma (ex. 912-B ou 922-B)
+
+Faça os comandos necessários para atualizar o repositório local: _git add_ e _git commit -m "..."_
+
+Atualize o seu repositório remoto: _git push_ 
+
+
