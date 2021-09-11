@@ -12,4 +12,8 @@ Faça os comandos necessários para atualizar o repositório local: _git add_ e 
 
 Atualize o seu repositório remoto: _git push_ 
 
+Digamos que você deseja incorporar esta sua alteração no repositório original. Então, você vai solicitar ao "dono" do repositório original para incluir essa modificação. Para isso, clique no botão **Pull Request**.
+
+
+
 
